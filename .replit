@@ -1,2 +1,2 @@
 language = "bash"
-run = "true"
+run = "g++ VM/src/*.*pp -o VM/build/qyl && ./VM/build/qyl"
