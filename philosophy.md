@@ -1,4 +1,4 @@
-# Spec
+# Philosophy #
 
 - Simplicity & Readability: Someone coming from another language could easily write and read Qyl code without extensively learning the language.
 - Ease of use: Complex tasks can be accomplished easily.

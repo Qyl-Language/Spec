@@ -1,2 +1,2 @@
 language = "bash"
-run = "g++ VM/src/*.*pp -o VM/build/qyl && ./VM/build/qyl"
+run = "clear"
